@@ -1,0 +1,47 @@
+#root {
+  min-height: fit-content;
+  max-width: 1280px;
+  min-width: 30 20px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: white;
+}
+
+select {
+  min-width: 280px;
+}
+
+.css-18jp67o-MuiNativeSelect-root-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.MuiSelect-select {
+    height: auto;
+    min-height: 1.4375em;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    min-width: 280px;
+    color: rgb(0, 0, 0);
+}
+
+.css-rizt0-MuiTypography-root{
+    margin: 0;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    color: black;
+}
+
+.css-zzw4lh-MuiDivider-root{
+     margin: 0;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    border-width: 0;
+    border-style: solid;
+    min-width: 650px;
+    border-bottom-width: thin;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    color: black;
+}
